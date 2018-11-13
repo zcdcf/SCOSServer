@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SCOSServer:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SCOSServer_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SCOSServer/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SCOSServer" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
